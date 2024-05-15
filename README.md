@@ -1,1 +1,2 @@
 # salamat-dough
+Initial commit
