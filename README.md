@@ -1,2 +1,2 @@
-# salamat-dough
-Initial commit
+# Salamat Dough
+Static site
